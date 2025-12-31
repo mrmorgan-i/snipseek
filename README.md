@@ -1,5 +1,5 @@
 # SnipSeek
-#### Video Demo: 
+#### Video Demo: https://youtu.be/pBJbEMg7yBc
 #### Description:
 
 SnipSeek is a code snippet manager built for developers who are tired of losing that one useful function they wrote six months ago. For people who know the one snippet, it was perfect, they remember writing it, but now it's buried somewhere in a random project folder. This app seeks to help to fix that.
