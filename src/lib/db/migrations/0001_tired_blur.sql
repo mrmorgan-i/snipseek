@@ -1,0 +1,2 @@
+CREATE INDEX "snippet_userId_updatedAt_idx" ON "snippet" USING btree ("user_id","updated_at");--> statement-breakpoint
+CREATE INDEX "snippet_userId_isPublic_idx" ON "snippet" USING btree ("user_id","is_public");
